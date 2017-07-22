@@ -1,9 +1,10 @@
 ---
 title: "PA1_template"
-author: "vesr"
+author: "intentionally left blank for security reasons"
 date: "July 20, 2017"
+output: md_document
 ---
-###This project
+###This project is regarding
 **Reproducible Research** course in Coursera's Data Science using  [FitBit](http://en.wikipedia.org/wiki/Fitbit) Data.
 
 

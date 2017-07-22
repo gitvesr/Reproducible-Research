@@ -1,0 +1,39 @@
+
+# This assignment will create a single R markdown document  processed by knitr and transformed into an HTML file.
+  
+  
+The program will do the following:
+
+1. Load the data (i.e. read.csv())
+
+2. Process/transform the data  into a format suitable for analysis
+
+3. Calculate mean total number of steps taken per day?
+
+4. Make a histogram of the total number of steps taken each day
+
+5. Calculate and report the mean and median total number of steps taken per day
+
+6. Determine the average daily activity pattern
+
+7. Time series plot (i.e. type = "l") of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all days (y-axis)
+
+8. Calculate 5-minute interval, on average across all the days in the dataset, contains the maximum number of steps?
+
+9. Imputing missing values
+
+
+10. Calculate and report the total number of missing values in the dataset (i.e. the total number of rows with NAs)
+
+11. Devise a strategy for filling in all of the missing values in the dataset. 
+
+12. Create a new dataset that is equal to the original dataset but with the missing data filled in.
+
+13. Make a histogram of the total number of steps taken each day and Calculate and report the mean and median total number of steps taken per day. 
+
+14. detmine the differences in activity patterns between weekdays and weekends
+
+
+15. Create a new factor variable in the dataset with two levels -- "weekday" and "weekend" indicating whether a given date is a weekday or weekend day.
+
+16. Make a panel plot containing a time series plot (i.e. type = "l") of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all weekday days or weekend days (y-axis).
